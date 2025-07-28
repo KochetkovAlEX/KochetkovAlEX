@@ -1,6 +1,10 @@
 ## Hi!👋 
-
 My name is Alex. I am a beginner backend developer. ✏️
+
+
+## About me 👨‍💻
+Hardworking, patient with repetitive tasks, and stress-resistant. Detail-oriented, curious, and passionate about solving complex problems.
+
 
 ## GitHub Streak Stats 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KochetkovAlEx&theme=dark)](https://git.io/streak-stats)
