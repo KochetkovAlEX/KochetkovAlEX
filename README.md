@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi!👋 
 
-<!--
-**KochetkovAlEX/KochetkovAlEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alex. I am a beginner backend developer. ✏️
 
-Here are some ideas to get you started:
+## GitHub Streak Stats 🔥
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KochetkovAlEx&theme=dark)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Languages 💻
+My main language is Python, but I also know a little C++ and Java
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KochetkovAlEX&hide_progress=true)
+
+## Skills 📑
+Recently I started solving various problems on LeetCode
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/KochetkovAlex?theme=dark&font=Work%20Sans)
+
