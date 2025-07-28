@@ -10,7 +10,7 @@ My name is Alex. I am a beginner backend developer. ✏️
 My main language is Python, but I also know a little C++ and Java
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KochetkovAlEX&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KochetkovAlEX&theme=dark&hide_progress=true)
 
 ## Skills 📑
 Recently I started solving various problems on LeetCode
