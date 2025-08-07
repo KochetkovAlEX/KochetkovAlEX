@@ -11,8 +11,8 @@ Hardworking, patient with repetitive tasks, and stress-resistant. Detail-oriente
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KochetkovAlEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Stat 🔥
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KochetkovAlEX&theme=dark)](https://git.io/streak-stats)
+<!-- ## GitHub Stat 🔥
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KochetkovAlEX&theme=dark)](https://git.io/streak-stats) -->
 
 
 ## LeetCode Stat 📑
