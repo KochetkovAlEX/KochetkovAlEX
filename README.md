@@ -22,5 +22,5 @@ Hardworking, patient with repetitive tasks, and stress-resistant. Detail-oriente
 ## LeetCode Stat 📑
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KochetkovAlex?theme=dark&font=Work%20Sans)
 
-## 📫 Connect with me:
+## Connect with me 📫
 [![Telegram](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=Telegram)](t.me/vSimer)  [![VK](https://img.shields.io/badge/VK-gray?style=for-the-badge&logo=VK)](vk.com/v_simer) 
