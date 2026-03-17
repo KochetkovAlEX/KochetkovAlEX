@@ -13,7 +13,7 @@ Hardworking, patient with repetitive tasks, and stress-resistant. Detail-oriente
 
 ## GitHub Stat 🔥
 <center>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=KochetkovAlEX&theme=dark)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=KochetkovAlEX&theme=dark)](https://git.io/streak-stats)
 </center>
 
 
